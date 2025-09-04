@@ -1,3 +1,15 @@
+# Ryan Reddy's First CS193 Homework
+
+- Useful to learn about tools I can use for CS
+- Course UI is fairly friendly
+- Course is structured well
+
+**bold** 
+
+*italic*
+
+> Quotation block
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
